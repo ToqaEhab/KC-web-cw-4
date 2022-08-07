@@ -17,9 +17,12 @@ margin :auto ;
 border-radius: 50%;
 opacity: 0.5;
 transition: 0.5;
+box-shadow: 8px 8px 7px #888888;
 
 
 }
+
+
 
 #red{
 
@@ -38,5 +41,19 @@ transition: 0.5;
 
 .circle:hover {
 
-    opacity:1 ;
+     opacity:1 ;
+     box-shadow: 10px 10px 5px #888888;
+
+
 }
+
+hr{  
+background-color: orange; 
+
+width: 300px;
+height: 2px;
+
+}
+
+
+
